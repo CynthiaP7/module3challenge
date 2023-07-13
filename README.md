@@ -10,6 +10,11 @@ Github  Repo link
 Deployed Github Page
 
 
+Screenshot
+
+![image](https://github.com/CynthiaP7/module3challenge/assets/122586416/ebb3a481-cfcb-4c58-83a8-c5bda1be1560)
+
+
 Authors
 Cynthia Pian
 
