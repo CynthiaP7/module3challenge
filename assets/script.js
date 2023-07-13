@@ -1,5 +1,6 @@
 var generateBtn = document.querySelector("#generate");
 
+//write a function to create password
 function writePassword() {
     var password = generatePassword();
     var passwordText = document.querySelector("#password");
@@ -7,6 +8,7 @@ function writePassword() {
     passwordText.value = password;
 }
 
+//different password criteria
 function generatePassword() {
     var uppercase = confirm ("Use uppercase chracters?");
     var lowercase = confirm ("Use lowercase characters?");
